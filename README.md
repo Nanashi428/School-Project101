@@ -43,3 +43,5 @@ OpenRouter: for access the AI to use to generate battle narratives dynamically
 
 # Choosing Creatures
 <img width="1044" height="451" alt="image" src="https://github.com/user-attachments/assets/e930328a-e71a-4286-a573-6d025bb4ae73" />
+
+https://youtu.be/PdbwJ5gaLcQ?si=nOE5hXFuDIM2-kaV
